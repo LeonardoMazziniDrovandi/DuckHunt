@@ -36,7 +36,7 @@ Affinché il codice trovi le texture e i file audio, la cartella del progetto de
 
 **Scarica il repo**
 ```bash
-git clone https://github.com/TuoNomeUtente/DuckHuntProcessing.git
+git clone https://github.com/LeonardoMazziniDrovandi/DuckHuntProcessing.git
 ```
 
 **Avvio del Gioco**
